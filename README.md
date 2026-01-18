@@ -1,9 +1,9 @@
-## Monte Carlo Self-Play Neural Network Training
+# Monte Carlo Self-Play Neural Network Training
 
 Alphazero style training with Monte Carlo Tree Search (MCTS) and self-play to learn policy–value neural networks.
 No fixed number of episodes — training stops automatically when convergence is detected.
 
-# Training Loop
+## Training Loop
 
 Run MCTS self-play using the current network.
 
